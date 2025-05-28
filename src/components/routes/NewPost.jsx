@@ -43,6 +43,6 @@
            
          }); 
         
-             return redirect('/');
+  return redirect('/');
        
   }
